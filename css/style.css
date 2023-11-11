@@ -77,6 +77,7 @@ header {
 
 .logo_wthree a i {
     font-size: 4em;
+    
 }
 
 /* /nav */
@@ -205,12 +206,12 @@ span.banner_text_w3ls {
 }
 
 .inner-banner-agile.skillset {
-    background: #dc143c url(../images/bg.png) center no-repeat;
+    background: #000000  url(../images/bg.png) center no-repeat;
     background-size: cover;
 }
 
 .inner-banner-agile.banner-port {
-    background: #e64c3e;
+    background: black ;
 }
 
 .inner-banner-agile.services {
@@ -218,7 +219,7 @@ span.banner_text_w3ls {
 }
 
 .inner-banner-agile.contact-bg {
-    background: #fbcf4a url(../images/bg.png) center no-repeat;
+    background: black url(../images/bg.png) center no-repeat;
     background-size: cover;
 }
 
